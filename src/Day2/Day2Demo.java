@@ -5,5 +5,9 @@ public class Day2Demo {
 		
 		System.out.println("hi");
 	}
+	public void newAdd( int a) {
+		
+		System.out.println(" Hello");
+	}
 
 }
